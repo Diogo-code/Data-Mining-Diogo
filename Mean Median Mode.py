@@ -26,3 +26,6 @@ b
 
 c = stats.mode(x)
 c
+
+d = np.std(x)
+d
