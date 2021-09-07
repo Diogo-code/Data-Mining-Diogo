@@ -38,3 +38,5 @@ y
 
 f = np.corrcoef(y,x)
 f
+
+matplotlib.pyplot.scatter(x,y)
