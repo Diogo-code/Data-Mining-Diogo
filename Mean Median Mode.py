@@ -16,7 +16,7 @@ from scipy import stats
 import matplotlib
 
 x = np.random.rand(100)
-x.
+x
 
 a = np.mean(x)
 a
