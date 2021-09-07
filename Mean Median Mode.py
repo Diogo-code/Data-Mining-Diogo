@@ -36,5 +36,5 @@ e
 y = np.random.rand(100)
 y
 
-f = np.corrcoef(y)
+f = np.corrcoef(y,x)
 f
