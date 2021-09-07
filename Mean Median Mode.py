@@ -29,3 +29,6 @@ c
 
 d = np.std(x)
 d
+
+e = np.var(x)
+e
