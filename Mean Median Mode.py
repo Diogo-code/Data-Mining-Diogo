@@ -40,3 +40,7 @@ f = np.corrcoef(y,x)
 f
 
 matplotlib.pyplot.scatter(x,y)
+
+np.log(y)
+
+np.exp(y)
